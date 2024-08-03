@@ -1,0 +1,1 @@
+Hi everyone, my name is Shangru and I have a fond interest in programming. This was an exercise I did on The Odin Project. It is a very simple website layout using HTML and CSS. I hope I can make many more projects in the future more complicated than this.
